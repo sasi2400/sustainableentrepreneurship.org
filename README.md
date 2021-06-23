@@ -11,7 +11,7 @@ Mansouri, S. and Momtaz, P.P., 2021. Financing Sustainable Entrepreneurship: ESG
 
 
 ## Requirement
-The codes tested on Python 3.6 (Annaconda).
+The codes tested on Python 3.6 (Anaconda).
 
 ## Word-lists generation
 
