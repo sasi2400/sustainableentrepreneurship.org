@@ -35,6 +35,7 @@ The codes tested on Python 3.6 (Anaconda).
 ```
 
 6. The word-lists will appear in the `outputs/dict/expanded_dict.csv` 
+> The paper's latest version of the word-lists are in `additional files/expanded_dict.csv` as well as [here.](https://www.dropbox.com/s/e28dihonntg8o82/expanded_dict.csv?dl=0)
 
 
 ## ESG score calculator
